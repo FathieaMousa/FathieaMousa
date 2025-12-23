@@ -68,7 +68,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
+<!--
 ```dart
 // About Me in Code Style
 
@@ -106,6 +106,42 @@ class Developer {
   <hr>
 
   **Code Cycle**<br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
+</div>
+-->
+**About Me in Code Style**  
+
+class Developer {  
+&nbsp;&nbsp;final String name = "Fathiea Mousa";  
+&nbsp;&nbsp;final String role = "Full-Stack Web Developer";  
+&nbsp;&nbsp;final List<String> skills = [  
+&nbsp;&nbsp;&nbsp;&nbsp;"Laravel",  
+&nbsp;&nbsp;&nbsp;&nbsp;"REST APIs",  
+&nbsp;&nbsp;&nbsp;&nbsp;"MySQL",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Android",  
+&nbsp;&nbsp;&nbsp;&nbsp;"Flutter",  
+&nbsp;&nbsp;&nbsp;&nbsp;"MongoDB"  
+&nbsp;&nbsp;];  
+}  
+
+<div align="center">
+  <a href="https://github.com/FathieaMousa">
+    <img src="https://raw.githubusercontent.com/FathieaMousa/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/FathieaMousa/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+    <img src="https://raw.githubusercontent.com/FathieaMousa/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+  </a>
+
+  <details>
+    <summary>More stats</summary>
+    <img align="center" src="https://raw.githubusercontent.com/FathieaMousa/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg">
+  </details>
+  
+  <hr>
+ <strong>Code Cycle</strong><br>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
