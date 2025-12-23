@@ -8,8 +8,7 @@
 
   <!-- Main Coding Animation -->
   
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="36%"/><br><br>
-  <br><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 
   <!-- Animated Typing Text -->
   <img 
