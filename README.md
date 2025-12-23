@@ -8,7 +8,7 @@
 
   <!-- Main Coding Animation -->
   
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Y0Z2Y3bGx1Z3ZzYzVhZ3h4aTg4dWc5b3R5bGJqZ2p5Y3ZpMSZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="38%"/>
   <br><br>
 
   <!-- Animated Typing Text -->
