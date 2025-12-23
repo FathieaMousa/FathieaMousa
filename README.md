@@ -10,8 +10,10 @@
 
   <!-- Main Coding Animation -->
   
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Hello+Coders!" 
+    alt="Hello Coders"
+  />
   <!-- Animated Typing Text -->
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
