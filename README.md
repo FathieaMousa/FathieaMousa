@@ -2,8 +2,7 @@
 <!--
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> -->
- <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="30%"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="40%"/>  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" />
 
 <h2>Hi, I'm Fathiea Mousa 👋</h2>
 <h4>Full-Stack Web Developer | Mobile Developer</h4>
