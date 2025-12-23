@@ -10,8 +10,7 @@
 
   <!-- Main Coding Animation -->
   
-  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="50%"/>
-
+<img src="https://media.giphy.com/media/3og0IPxMM0erATueVW/giphy.gif" width="45%"/>
   <!-- Animated Typing Text -->
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
