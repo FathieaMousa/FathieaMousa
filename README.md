@@ -5,6 +5,8 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40%"/>
 
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" /> -->
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Fathiea%20Mousa&fontSize=45&fontColor=ffffff&animation=twinkling" />
+
 
   <!-- Main Coding Animation -->
   
