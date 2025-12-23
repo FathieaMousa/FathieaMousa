@@ -11,7 +11,7 @@
   <!-- Main Coding Animation -->
   
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=38BDF8&center=true&vCenter=true&width=400&lines=Hello+Coders!" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=1000&color=38BDF8&center=true&vCenter=true&width=450&lines=Hello+Coders!" 
     alt="Hello Coders"
   />
   <!-- Animated Typing Text -->
