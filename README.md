@@ -13,7 +13,7 @@
 
   <!-- Animated Typing Text -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
     alt="Typing SVG"
   />
 
@@ -22,7 +22,7 @@
 
   <!-- Small Divider -->
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect&color=F97316&height=3&section=header&width=80%" 
+    src="https://capsule-render.vercel.app/api?type=rect&color=EC4899&height=3&section=header&width=80%" 
   />
 
 <h2>Hi, I'm Fathiea Mousa 👋</h2>
