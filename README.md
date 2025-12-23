@@ -7,12 +7,8 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" /> -->
 
   <!-- Main Coding Animation -->
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    alt="Coding Developer" 
-    width="38%" 
-  />
   
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35%"/>
   <br><br>
 
   <!-- Animated Typing Text -->
