@@ -29,9 +29,9 @@
 <h4>Full-Stack Web Developer | Mobile Developer</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FathieaMousa&style=flat&color=orange&label=PROFILE+VIEWS)
-
+[![Email](https://img.shields.io/badge/Email-Fathiea%20Mousa-blue?style=flat&logo=email)](fathiea2003@gmail.comS)
 [![GitHub](https://img.shields.io/badge/GitHub-FathieaMousa-black?style=flat&logo=github)](https://github.com/FathieaMousa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathiea%20Mousa-blue?style=flat&logo=linkedin)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fathiea%20Mousa-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fathiea-mousa-145783372/)
 
 </div>
 
@@ -111,8 +111,8 @@ class Developer {
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
 </div>
--->
-<!--
+
+
 **About Me in Code Style**  
 
 class Developer {  
