@@ -39,7 +39,7 @@
 
 ### 🚀 About Me
 - 💻 Full-Stack Web Developer (Laravel & Backend APIs)
-- 📱 Experience in Android & Mobile Development
+- 📱 Experience in Flutter & Mobile Development
 - 🎓 Mobile Computing graduate – Islamic University of Gaza
 - 🌍 Palestinian Developer
 - 🧠 Passionate about building scalable and clean software solutions
