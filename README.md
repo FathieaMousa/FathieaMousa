@@ -73,7 +73,7 @@
 // About Me in Code Style
 
 class Developer {
-  final String name = "Fathiea Mousa";
+  final String name = "Fathiyeh Mousa";
   final String role = "Full-Stack Web Developer";
   final List<String> skills = [
     "Laravel",
