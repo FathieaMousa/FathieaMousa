@@ -4,7 +4,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="40%"/>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathyieh+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" /> -->
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+I'm+Fathiyeh+Mousa;Full-Stack+Web+Developer;Laravel+%7C+APIs+%7C+Mobile" /> -->
  
 
 
@@ -25,7 +25,7 @@
     src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=3&section=header&width=80%" 
   />
 
-<h2>Hi, I'm Fathiea Mousa 👋</h2>
+<h2>Hi, I'm Fathiyeh Mousa 👋</h2>
 <h4>Full-Stack Web Developer | Mobile Developer</h4>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FathieaMousa&style=flat&color=orange&label=PROFILE+VIEWS)
@@ -38,11 +38,12 @@
 <hr></hr>
 
 ### 🚀 About Me
-- 💻 Full-Stack Web Developer (Laravel & Backend APIs)
-- 📱 Experience in Flutter & Mobile Development
-- 🎓 Mobile Computing graduate – Islamic University of Gaza
-- 🌍 Palestinian Developer
-- 🧠 Passionate about building scalable and clean software solutions
+-💻 Full-Stack Web Developer specializing in Laravel, Backend APIs, and modern web architectures
+-🎨 Frontend Developer experienced in building responsive and user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks
+-📱 Mobile Developer with experience in Flutter & cross-platform app development
+-🎓 Bachelor’s in Mobile Computing – Islamic University of Gaza
+-🌍 Palestinian Developer passionate about impactful tech solutions
+-🧠 Focused on building scalable, clean, and maintainable software systems with great user experience
 
 ---
 
@@ -80,7 +81,8 @@ class Developer {
     "MySQL",
     "Android",
     "Flutter",
-    "MongoDB"
+    "MongoDB",
+    "Javascript"
   ];
 }
 
