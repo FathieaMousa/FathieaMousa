@@ -13,7 +13,7 @@
 
   <!-- Animated Typing Text -->
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0F172A&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiea+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0F172A&center=true&vCenter=true&width=650&lines=Hi+I'm+Fathiyeh+Mousa;Full-Stack+Web+Developer;Laravel+%7C+REST+APIs+%7C+Mobile+Apps;Turning+Ideas+Into+Real+Applications" 
     alt="Typing SVG"
   />
 
@@ -38,12 +38,12 @@
 <hr></hr>
 
 ### 🚀 About Me
--💻 Full-Stack Web Developer specializing in Laravel, Backend APIs, and modern web architectures
--🎨 Frontend Developer experienced in building responsive and user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks
--📱 Mobile Developer with experience in Flutter & cross-platform app development
--🎓 Bachelor’s in Mobile Computing – Islamic University of Gaza
--🌍 Palestinian Developer passionate about impactful tech solutions
--🧠 Focused on building scalable, clean, and maintainable software systems with great user experience
+- 💻 Full-Stack Web Developer specializing in Laravel, Backend APIs, and modern web architectures
+- 🎨 Frontend Developer experienced in building responsive and user-friendly interfaces using HTML, CSS, JavaScript, and modern frameworks
+- 📱 Mobile Developer with experience in Flutter & cross-platform app development
+- 🎓 Bachelor’s in Mobile Computing – Islamic University of Gaza
+- 🌍 Palestinian Developer passionate about impactful tech solutions
+- 🧠 Focused on building scalable, clean, and maintainable software systems with great user experience
 
 ---
 
